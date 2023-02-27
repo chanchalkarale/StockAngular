@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'WebStockMarket'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A66734C5A08E413B9A17FB798951960A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4A5EBD30E6B14E73B3B63C687915852D }}
           package: .
